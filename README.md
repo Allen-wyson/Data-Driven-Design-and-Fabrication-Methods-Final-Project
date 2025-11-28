@@ -3,7 +3,7 @@
 
 ## 📋 Project Overview
 
-This repository hosts the final project for **ME‑428: Advanced Structural Optimization** at EPFL, supervised by Prof. Josie Hughes. Inspired by the efficiency of natural spider webs, we developed a data‑driven workflow to **maximize the strength‑to‑weight ratio** of bioinspired web geometries.
+This repository hosts the final project for **ME‑428: Data-driven Design and Fabrication Methods* at EPFL, supervised by Prof. Josie Hughes. Inspired by the efficiency of natural spider webs, we developed a data‑driven workflow to **maximize the strength‑to‑weight ratio** of bioinspired web geometries.
 In simple terms, we taught MATLAB and Python to weave the perfect digital "web" that holds the most weight while using the least material—much like choosing the fewest silk threads to build the strongest net.
 
 ## 🚀 Core Workflow
